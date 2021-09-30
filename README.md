@@ -7,8 +7,8 @@ It is a base to test the issue in the Gutenberg project.
 ## How to use
 
 Simply put in your `wp-content/mu-plugins/` folder of your WordPress instance:
-- the gutenberg-core-html-block-attribute-widget-test.php file
-- the dist/ folder
+- the `gutenberg-core-html-block-attribute-widget-test.php` file
+- the `dist/` folder
 
 You can then see the `Custom attributes` panel with `a custom attribute` field when a Custom HTML block is selected in the screen.
 
